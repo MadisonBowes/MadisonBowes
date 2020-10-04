@@ -1,0 +1,21 @@
+html {
+	font-family: courier,arial,helvetica;
+}
+
+.page_header {
+	text-align: center;
+}
+
+.husky_image {
+	height: 290px;
+	margin-bottom: 15px;
+}
+
+p {
+	font-size: 12pt;
+	color: maroon;
+}
+
+.section_about_me {
+	margin: 24px;
+}
